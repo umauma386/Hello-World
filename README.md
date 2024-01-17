@@ -1,2 +1,3 @@
 # Hello-World
-just another repository
+
+新機能追加
